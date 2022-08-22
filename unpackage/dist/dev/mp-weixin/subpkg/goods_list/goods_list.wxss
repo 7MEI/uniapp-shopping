@@ -1,0 +1,26 @@
+@charset "UTF-8";
+/* 水平间距 */
+/* 水平间距 */
+.goodslist-item {
+  display: flex;
+  padding: 10px 5px;
+}
+.goodslist-item .list-left image {
+  height: 100px;
+  width: 100px;
+  display: block;
+}
+.goodslist-item .right-list {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin-left: 5px;
+}
+.goodslist-item .right-list .right-name {
+  font-size: 15px;
+}
+.goodslist-item .right-list .right-price {
+  font-size: 13px;
+  color: #aa0000;
+}
+

@@ -1,0 +1,41 @@
+@charset "UTF-8";
+/* 水平间距 */
+/* 水平间距 */
+.search-box {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  z-index: 999;
+}
+swiper {
+  height: 330rpx;
+}
+swiper .swiper-item,
+swiper image {
+  height: 100%;
+  width: 100%;
+}
+.nav-list {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 22rpx;
+}
+.nav-list .nav-item image {
+  width: 128rpx;
+  height: 140rpx;
+}
+.floor-list .floor-title image {
+  height: 60rpx;
+  width: 100%;
+}
+.floor-list .floor-img {
+  display: flex;
+  margin: 12rpx 0;
+  padding-left: 10rpx;
+}
+.floor-list .floor-img .floor-right-img {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+

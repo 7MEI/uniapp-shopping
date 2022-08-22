@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "",
+  "onReachBottomDistance": 150,
+  "usingComponents": {
+    "my-address": "/components/my-address/my-address",
+    "uni-icons": "/uni_modules/uni-icons/components/uni-icons/uni-icons",
+    "goods": "/components/goods/goods",
+    "accounts": "/components/accounts/accounts"
+  }
+}

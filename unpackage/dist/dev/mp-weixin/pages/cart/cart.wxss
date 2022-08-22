@@ -1,0 +1,17 @@
+@charset "UTF-8";
+/* 水平间距 */
+/* 水平间距 */
+.cart-container {
+  padding-bottom: 50px;
+}
+.cart-container .cart-title {
+  padding: 10px 5px;
+  display: flex;
+  align-items: center;
+  border-bottom: 1px solid #EBEEF5;
+}
+.cart-container .cart-title text {
+  font-size: 16px;
+  margin-left: 10px;
+}
+
